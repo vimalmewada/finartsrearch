@@ -236,7 +236,7 @@ h6 {
     display: block;
     position: absolute;
     visibility: hidden;
-    left: 0;
+    right:0;
     top: 130%;
     opacity: 0;
     transition: 0.3s;
