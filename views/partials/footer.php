@@ -153,7 +153,14 @@
 
                  <ul class="list-unstyled">
                      <li class="mb-2">
-                         <a href="#!" class="text-white"><i class="fas fa-paw pe-3"></i>General information</a>
+                         <a href="/value-investing" class="text-white"><i class="fas fa-paw pe-3"></i>Value Investing</a>
+                     </li>
+
+                     <li class="mb-2">
+                         <a href="/swing-pro" class="text-white"><i class="fas fa-paw pe-3"></i>Swing Pro</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/equity-umbrella" class="text-white"><i class="fas fa-paw pe-3"></i>Equity Umbrella</a>
                      </li>
                      
                  </ul>

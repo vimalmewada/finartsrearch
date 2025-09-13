@@ -25,8 +25,12 @@ function route($page) {
             return $viewPath . 'refund-cancellation.php';
         case 'term-conditions':
             return $viewPath . 'term-and-condition.php';
-        
-        
+        case 'equity-umbrella':
+            return $viewPath . 'services/equity-umbrella.php';
+        case 'swing-pro':
+            return $viewPath . 'services/swing-pro.php';
+        case 'value-investing':
+            return $viewPath . 'services/value-investing.php';
         case '':
         case '/':
         case 'home':
