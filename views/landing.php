@@ -82,17 +82,11 @@
             <div class="row gy-4 mb-2" data-aos="fade-up">
                 <div class="col-lg-6">
                     <h3>Our Vision</h3>
-                    <p>To become a trusted name in financial research by empowering investors with ethical, transparent,
-                        and theme-based portfolio insights, while ensuring every step aligns with SEBI regulations and
-                        investor protection.</p>
+                    <p>Invest with knowledge & safety.</p>
                 </div>
                 <div class="col-lg-6">
                     <h3>Our Mission</h3>
-                    <p>At FinArts Research, our mission is to simplify market complexities through independent,
-                        data-driven research. We focus on delivering theme-based portfolio ideas, market analysis, and
-                        investor awareness initiatives that help individuals make informed financial decisions. By
-                        upholding transparency, ethics, and compliance, we aim to nurture a culture of responsible
-                        investing in India.</p>
+                    <p>Every investor should be able to invest in right investment products based on their needs, manage and monitor them to meet their goals, access reports and enjoy financial wellness.</p>
                 </div>
             </div>
 
