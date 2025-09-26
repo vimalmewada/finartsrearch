@@ -59,6 +59,7 @@
                             <li><a href="/equity-umbrella">Equity Umbrella</a></li>
                         </ul>
                     </li>
+                    <li><a href="/gallery">Gallery</a></li>
                     <li><a href="/investor-charter">investor-charter</a></li>
                     <li><a href="/#team">Team</a></li>
                     <!-- <li><a href="blog.html">Blog</a></li> -->
