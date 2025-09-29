@@ -9,7 +9,7 @@
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="assets/img/img/finartsresearch.jpeg" rel="icon">
+    <link href="assets/img/img/finartsresearch.png" rel="icon">
     <link href="assets/img/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Fonts -->
@@ -38,8 +38,8 @@
 
             <a href="/" class="logo d-flex align-items-center">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/img/finartsresearch.jpeg" alt="">
-                <h1 class="sitename">Finarts Research</h1>
+                <img src="assets/img/img/finartsresearch.png"  alt="">
+           <h4 class="justify-content-center text-center">Finarts Research</h4>
             </a>
 
             <nav id="navmenu" class="navmenu">

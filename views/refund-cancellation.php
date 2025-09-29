@@ -250,7 +250,7 @@ new page
                                                 <h5 class="card-title fw-semibold"><i
                                                         class="bi bi-telephone-fill me-2"></i>Phone Support</h5>
                                             </div>
-                                            <p class="card-text fs-14">+91-7489108446</p>
+                                            <p class="card-text fs-14">+91-9111811828</p>
                                             <p class="card-text text-muted fs-12"><small>Available 10:00 AM - 10:00 PM
                                                     daily</small></p>
                                         </div>

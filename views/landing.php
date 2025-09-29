@@ -86,7 +86,8 @@
                 </div>
                 <div class="col-lg-6">
                     <h3>Our Mission</h3>
-                    <p>Every investor should be able to invest in right investment products based on their needs, manage and monitor them to meet their goals, access reports and enjoy financial wellness.</p>
+                    <p>Every investor should be able to invest in right investment products based on their needs, manage
+                        and monitor them to meet their goals, access reports and enjoy financial wellness.</p>
                 </div>
             </div>
 
@@ -115,14 +116,25 @@
                         insights, and strategies that empower investors to make informed decisions aligned with their
                         financial goals. Every report we publish adheres to SEBI regulations and reflects our core
                         values of integrity, professionalism, and investor protection. </p>
-                    <!-- <a href="#" class="read-more"><span></span><i class="bi bi-arrow-right"></i></a> -->
+                    <a href="https://www.instagram.com/finartsresearch?igsh=M2lmOXluMWhyajJ0"
+                        class="read-more"><span></span>
+                        <i class="bi bi-instagram"></i></a>
+                    <a href="https://linkedin.com/in/finarts-research-firm-30711a386" class="read-more"><span></span><i
+                            class="bi bi-envelope"></i></a>
+                    <a href="https://twitter.com/FinartsR53931" class="read-more"><span></span><i
+                            class="bi bi-twitter"></i></a>
+                    <a href="https://www.threads.net/finartsresearch" class="read-more"><span></span><i
+                            class="bi bi-threads"></i></a>
                 </div>
 
             </div>
 
+
+
         </div>
 
-    </section><!-- /About Section -->
+    </section>
+    <!-- /About Section -->
 
     <!-- Features Section -->
     <section id="features" class="features section">
@@ -329,13 +341,14 @@
 
                         <div class="accordion-item">
                             <h2 class="mb-0">
-                                
+
                                 <button class="btn btn-link collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse-faq-2">
                                     02. What will be the mode of tips?
                                 </button>
                             </h2>
-                            <div id="collapse-faq-2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion-faq">
+                            <div id="collapse-faq-2" class="collapse" aria-labelledby="headingTwo"
+                                data-parent="#accordion-faq">
                                 <div class="accordion-body">
                                     We provide tips through SMS, Telegram, Whatsapp,and E-Mail.
                                 </div>

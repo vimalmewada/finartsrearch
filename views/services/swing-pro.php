@@ -172,7 +172,7 @@
                             <i class="bi bi-headset help-icon"></i>
                             <h4>Have a Question?</h4>
                             <p class="d-flex align-items-center mt-2 mb-0"><i class="bi bi-telephone me-2"></i>
-                                <span>+91-7489108446</span></p>
+                                <span>+91-9111811828</span></p>
                             <p class="d-flex align-items-center mt-1 mb-0"><i class="bi bi-envelope me-2"></i>
                                 <a href="mailto:contact@example.com">contact@finartsresearch.com</a></p>
                         </div>
