@@ -30,6 +30,11 @@
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet">
 </head>
+<?php
+$jsonFilePath = 'public/data/portfolios.json';
+$jsonData = file_get_contents($jsonFilePath);
+$data = json_decode($jsonData, true);
+?>
 
 <body class="index-page">
 
@@ -38,8 +43,8 @@
 
             <a href="/" class="logo d-flex align-items-center">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/img/finartsresearch.png"  alt="">
-           <h4 class="justify-content-center text-center">Finarts Research</h4>
+                <img src="assets/img/img/finartsresearch.png" alt="">
+                <h4 class="justify-content-center text-center">Finarts Research</h4>
             </a>
 
             <nav id="navmenu" class="navmenu">
@@ -47,8 +52,34 @@
                     <li><a href="/#hero" class="active">Home</a></li>
                     <li><a href="/#about">About</a></li>
                     <!-- <li><a href="/#services">Services</a></li> -->
+                    <li class="dropdown"><a href="#"><span>Services</span> <i
+                                class="bi bi-chevron-down toggle-dropdown"></i></a>
+                        <ul>
+                            <li><a href="/swing-pro">Swing Pro</a></li>
+                            <li><a href="/equity-umbrella">Equity Umbrella</a></li>
+                            <li class="dropdown">
+                                <a href="#"><span>Value Investing</span> <i
+                                        class="bi bi-chevron-down toggle-dropdown"></i></a>
+                                <ul>
+                                    <?php
+        if (isset($data['data']) && is_array($data['data'])) {
+            foreach ($data['data'] as $item) {
+                $name = htmlspecialchars($item['name']);
+                $route = htmlspecialchars($item['route']);
+                echo "<li><a href=\"$route\">$name</a></li>";
+            }
+        } else {
+            // echo "<li><a href=\"#\">No data found</a></li>";
+        }
+        ?>
+                                </ul>
+                            </li>
 
-                     <li class="dropdown">
+
+
+                        </ul>
+                    </li>
+                    <!-- <li class="dropdown">
                         <a href="#">
                         <span>Services</span> <i
                                 class="bi bi-chevron-down toggle-dropdown"></i>
@@ -58,34 +89,17 @@
                             <li><a href="/swing-pro">Swing Pro</a></li>
                             <li><a href="/equity-umbrella">Equity Umbrella</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                     <li><a href="/gallery">Gallery</a></li>
                     <li><a href="/investor-charter">investor-charter</a></li>
                     <li><a href="/#team">Team</a></li>
                     <!-- <li><a href="blog.html">Blog</a></li> -->
-                    <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
-            </ul>
-          </li> -->
+
                     <li><a href="/#contact">Contact</a></li>
                     <li class="dropdown">
                         <a href="#">
-                        <span>More</span> <i
-                                class="bi bi-chevron-down toggle-dropdown"></i>
-                            </a>
+                            <span>More</span> <i class="bi bi-chevron-down toggle-dropdown"></i>
+                        </a>
                         <ul>
                             <li><a href="/complaint-data">Complaint Data</a></li>
                             <li><a href="/#faq">Investor Faq</a></li>

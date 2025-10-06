@@ -29,10 +29,15 @@ function route($page) {
             return $viewPath . 'services/equity-umbrella.php';
         case 'swing-pro':
             return $viewPath . 'services/swing-pro.php';
-        case 'value-investing':
-            return $viewPath . 'services/value-investing.php';
-         case 'gallery':
+        // case 'value-investing':
+        //     return $viewPath . 'services/value-investing.php';
+        case 'gallery':
             return $viewPath . 'gallery.php';
+        case 'disclosure':
+            return $viewPath . 'disclosure.php';
+        case 'value-investing':
+            return $viewPath . 'services/ppt-show.php';
+            
         case '':
         case '/':
         case 'home':

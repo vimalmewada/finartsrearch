@@ -136,6 +136,9 @@
                         <a href="#investor-charter" class="text-white"><i class="fas fa-scroll pe-3"></i>Investor Charter</a>
                     </li>
                     <li class="mb-2">
+                        <a href="/disclosure" class="text-white"><i class="fas fa-briefcase pe-3"></i>Disclosure</a>
+                    </li>
+                    <li class="mb-2">
                         <a href="#career" class="text-white"><i class="fas fa-briefcase pe-3"></i>Career</a>
                     </li>
                 </ul>
@@ -181,6 +184,7 @@
                     <li class="mb-2">
                         <a href="/privacy-policy" class="text-white"><i class="fas fa-file-alt pe-3"></i>Privacy Policy</a>
                     </li>
+                 
                     <li class="mb-2">
                         <a href="/#faq" class="text-white"><i class="fas fa-question-circle pe-3"></i>FAQs</a>
                     </li>
