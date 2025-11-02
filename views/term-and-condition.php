@@ -224,7 +224,7 @@
                                                         class="bi bi-envelope-fill me-2"></i>Email
                                                     Support</h5>
                                             </div>
-                                            <p class="card-text fs-14">finartsresearch@gmail.com</p>
+                                            <p class="card-text fs-14">finartsresearch@gmail.com </p>
                                             <p class="card-text text-muted fs-12"><small>Response within 2 hours during
                                                     business
                                                     hours</small></p>

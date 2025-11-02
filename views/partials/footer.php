@@ -32,13 +32,46 @@
                      <i class="bi bi-envelope flex-shrink-0"></i>
                      <div>
                          <h3>Email Us</h3>
-                         <p>finartsresearch@gmail.com</p>
+                         <p>finartsresearch@gmail.com </p>
                      </div>
                  </div><!-- End Info Item -->
 
              </div>
+             <div class="col-lg-4">
+                 <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="500" style="margin-bottom: 20px;">
+                     <i class="bi bi-linkedin flex-shrink-0" style="font-size: 24px;"></i>
+                     <div style="margin-left: 15px;">
+                         <h3 style="color: #2c3e50; font-size: 20px; font-weight: bold;">LinkedIn</h3>
+                         <p style="color: #555; font-size: 16px;">
+                             <a href="https://www.linkedin.com/in/finarts-research-firm-30711a386" target="_blank"
+                                 style="color: #0077b5; text-decoration: none;">FinArts Research Firm</a>
+                         </p>
+                     </div>
+                 </div><!-- End Info Item -->
 
-             <div class="col-lg-8">
+                 <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="600" style="margin-bottom: 20px;">
+                     <i class="bi bi-instagram flex-shrink-0" style="font-size: 24px;"></i>
+                     <div style="margin-left: 15px;">
+                         <h3 style="color: #2c3e50; font-size: 20px; font-weight: bold;">Instagram</h3>
+                         <p style="color: #555; font-size: 16px;">
+                             <a href="https://www.instagram.com/finartsresearch?utm_source=qr&igsh=NjUzbWx1ZWdobXRz"
+                                 target="_blank" style="color: #d02c4c; text-decoration: none;">@finartsresearch</a>
+                         </p>
+                     </div>
+                 </div><!-- End Info Item -->
+
+                 <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="700" style="margin-bottom: 20px;">
+                     <i class="bi bi-twitter flex-shrink-0" style="font-size: 24px;"></i>
+                     <div style="margin-left: 15px;">
+                         <h3 style="color: #2c3e50; font-size: 20px; font-weight: bold;">Twitter</h3>
+                         <p style="color: #555; font-size: 16px;">
+                             <a href="https://twitter.com/FinartsResearch" target="_blank"
+                                 style="color: #00aced; text-decoration: none;">@FinartsResearch</a>
+                         </p>
+                     </div>
+                 </div><!-- End Info Item -->
+             </div>
+             <div class="col-lg-4">
                  <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
                      data-aos-delay="200">
                      <div class="row gy-4">
@@ -83,154 +116,168 @@
 
 
  <<footer class="footer dark-background text-center text-lg-start text-white">
-    <!-- Grid container -->
-    <div class="container p-4">
-        <!--Grid row-->
-        <div class="row my-4">
-            <!--Grid column-->
-            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                <div class="rounded-circle shadow-1-strong d-flex align-items-center justify-content-center mb-4 mx-auto" style="width: 150px; height: 150px;">
-                    <img src="assets/img/img/finartsresearch.png" height="100" alt="FinArts Research" loading="lazy" />
-                </div>
-                <p class="">FinArtsResearch is a SEBI-registered equity research platform providing in-depth analysis, expert insights, and data-driven strategies for investors and traders. We specialize in delivering transparent, compliant, and actionable stock market research tailored to individual and institutional needs.</p>
+     <!-- Grid container -->
+     <div class="container p-4">
+         <!--Grid row-->
+         <div class="row my-4">
+             <!--Grid column-->
+             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                 <div class="rounded-circle shadow-1-strong d-flex align-items-center justify-content-center mb-4 mx-auto"
+                     style="width: 150px; height: 150px;">
+                     <img src="assets/img/img/finartsresearch.png" height="100" alt="FinArts Research" loading="lazy" />
+                 </div>
+                 <p class="">FinArtsResearch is a SEBI-registered equity research platform providing in-depth analysis,
+                     expert insights, and data-driven strategies for investors and traders. We delivering transparent,
+                     compliant, and actionable stock market research tailored to individual and institutional needs.</p>
 
-                <ul class="list-unstyled d-flex flex-row">
-                    <li>
-                        <a class="text-white px-3" href="https://www.instagram.com/finartsresearch?igsh=M2lmOXluMWhyajJ0" target="_blank">
-                            <i class="bi bi-instagram fs-3"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="text-white px-3" href="https://linkedin.com/in/finarts-research-firm-30711a386" target="_blank">
-                            <i class="bi bi-envelope fs-3"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="text-white px-3" href="https://twitter.com/FinartsR53931" target="_blank">
-                            <i class="bi bi-twitter fs-3"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="text-white ps-3" href="https://www.threads.net/finartsresearch" target="_blank">
-                            <i class="bi bi-threads fs-3"></i>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <!--Grid column-->
+                 <ul class="list-unstyled d-flex flex-row">
+                     <li>
+                         <a class="text-white px-3"
+                             href="https://www.instagram.com/finartsresearch?igsh=M2lmOXluMWhyajJ0" target="_blank">
+                             <i class="bi bi-instagram fs-3"></i>
+                         </a>
+                     </li>
+                     <li>
+                         <a class="text-white px-3" href="https://linkedin.com/in/finarts-research-firm-30711a386"
+                             target="_blank">
+                             <i class="bi bi-envelope fs-3"></i>
+                         </a>
+                     </li>
+                     <li>
+                         <a class="text-white px-3" href="https://twitter.com/FinartsR53931" target="_blank">
+                             <i class="bi bi-twitter fs-3"></i>
+                         </a>
+                     </li>
+                     <li>
+                         <a class="text-white ps-3" href="https://www.threads.net/finartsresearch" target="_blank">
+                             <i class="bi bi-threads fs-3"></i>
+                         </a>
+                     </li>
+                 </ul>
+             </div>
+             <!--Grid column-->
 
-            <!--Grid column-->
-            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                <h5 class="text-uppercase mb-4">Official Info</h5>
-                <ul class="list-unstyled">
-                    <li class="mb-2">
-                        <a href="#about" class="text-white"><i class="fas fa-info-circle pe-3"></i>About</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="#services" class="text-white"><i class="fas fa-cogs pe-3"></i>Services</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="mailto:finartsresearch@gmail.com" class="text-white"><i class="fas fa-envelope pe-3"></i>Contact</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="#investor-charter" class="text-white"><i class="fas fa-scroll pe-3"></i>Investor Charter</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/disclosure" class="text-white"><i class="fas fa-briefcase pe-3"></i>Disclosure</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="#career" class="text-white"><i class="fas fa-briefcase pe-3"></i>Career</a>
-                    </li>
-                </ul>
-            </div>
-            <!--Grid column-->
+             <!--Grid column-->
+             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                 <h5 class="text-uppercase mb-4">Official Info</h5>
+                 <ul class="list-unstyled">
+                     <li class="mb-2">
+                         <a href="#about" class="text-white"><i class="fas fa-info-circle pe-3"></i>About</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="#services" class="text-white"><i class="fas fa-cogs pe-3"></i>Services</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="mailto:finartsresearch@gmail.com " class="text-white"><i
+                                 class="fas fa-envelope pe-3"></i>Contact</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="#investor-charter" class="text-white"><i class="fas fa-scroll pe-3"></i>Investor
+                             Charter</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/disclosure" class="text-white"><i class="fas fa-briefcase pe-3"></i>Disclosure</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="#career" class="text-white"><i class="fas fa-briefcase pe-3"></i>Career</a>
+                     </li>
+                 </ul>
+             </div>
+             <!--Grid column-->
 
-            <!--Grid column-->
-            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                <h5 class="text-uppercase mb-4">Services</h5>
-                <ul class="list-unstyled">
-                    <li class="mb-2">
-                        <a href="/value-investing" class="text-white"><i class="fas fa-paw pe-3"></i>Value Investing</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/swing-pro" class="text-white"><i class="fas fa-paw pe-3"></i>Swing Pro</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/equity-umbrella" class="text-white"><i class="fas fa-paw pe-3"></i>Equity Umbrella</a>
-                    </li>
-                </ul>
-            </div>
-            <!--Grid column-->
+             <!--Grid column-->
+             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                 <h5 class="text-uppercase mb-4">Services</h5>
+                 <ul class="list-unstyled">
+                     <li class="mb-2">
+                         <a href="/value-investing" class="text-white"><i class="fas fa-paw pe-3"></i>Value
+                             Investing</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/swing-pro" class="text-white"><i class="fas fa-paw pe-3"></i>Swing Pro</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/equity-umbrella" class="text-white"><i class="fas fa-paw pe-3"></i>Equity
+                             Umbrella</a>
+                     </li>
+                 </ul>
+             </div>
+             <!--Grid column-->
 
-            <!--Grid column-->
-            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-                <h5 class="mb-4">Useful Links</h5>
-                <ul class="list-unstyled">
-                    <li class="mb-2">
-                        <a href="/complaint-data" class="text-white"><i class="fas fa-file-alt pe-3"></i>Complaint Data</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/disclosure" class="text-white"><i class="fas fa-file-alt pe-3"></i>Disclosure</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/disclaimer" class="text-white"><i class="fas fa-file-alt pe-3"></i>Disclaimer</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/refund-policy" class="text-white"><i class="fas fa-file-alt pe-3"></i>Refund Policy</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/term-conditions" class="text-white"><i class="fas fa-file-alt pe-3"></i>Terms & Conditions</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/privacy-policy" class="text-white"><i class="fas fa-file-alt pe-3"></i>Privacy Policy</a>
-                    </li>
-                 
-                    <li class="mb-2">
-                        <a href="/#faq" class="text-white"><i class="fas fa-question-circle pe-3"></i>FAQs</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="/#contact" class="text-white"><i class="fas fa-phone pe-3"></i>Contact Us</a>
-                    </li>
-                    <li class="mb-2">
-                        <a href="https://scores.sebi.gov.in/" target="_blank" class="text-white"><i class="fas fa-paw pe-3"></i>SCORES</a>
-                    </li>
-                </ul>
-            </div>
-            <!--Grid column-->
-        </div>
-        <!--Grid row-->
-    </div>
-    <!-- Grid container -->
+             <!--Grid column-->
+             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                 <h5 class="mb-4">Useful Links</h5>
+                 <ul class="list-unstyled">
+                     <li class="mb-2">
+                         <a href="/complaint-data" class="text-white"><i class="fas fa-file-alt pe-3"></i>Complaint
+                             Data</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/disclosure" class="text-white"><i class="fas fa-file-alt pe-3"></i>Disclosure</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/disclaimer" class="text-white"><i class="fas fa-file-alt pe-3"></i>Disclaimer</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/refund-policy" class="text-white"><i class="fas fa-file-alt pe-3"></i>Refund
+                             Policy</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/term-conditions" class="text-white"><i class="fas fa-file-alt pe-3"></i>Terms &
+                             Conditions</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/privacy-policy" class="text-white"><i class="fas fa-file-alt pe-3"></i>Privacy
+                             Policy</a>
+                     </li>
 
-    <!-- Copyright -->
-    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-        © 2025 Copyright:
-        <a class="text-white" href="/">Finartsresearch</a>
-    </div>
-    <!-- Copyright -->
-</footer>
+                     <li class="mb-2">
+                         <a href="/#faq" class="text-white"><i class="fas fa-question-circle pe-3"></i>FAQs</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="/#contact" class="text-white"><i class="fas fa-phone pe-3"></i>Contact Us</a>
+                     </li>
+                     <li class="mb-2">
+                         <a href="https://scores.sebi.gov.in/" target="_blank" class="text-white"><i
+                                 class="fas fa-paw pe-3"></i>SCORES</a>
+                     </li>
+                 </ul>
+             </div>
+             <!--Grid column-->
+         </div>
+         <!--Grid row-->
+     </div>
+     <!-- Grid container -->
+
+     <!-- Copyright -->
+     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+         © 2025 Copyright:
+         <a class="text-white" href="/">Finartsresearch</a>
+     </div>
+     <!-- Copyright -->
+     </footer>
 
 
 
- <!-- Scroll Top -->
- <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
-         class="bi bi-arrow-up-short"></i></a>
+     <!-- Scroll Top -->
+     <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+             class="bi bi-arrow-up-short"></i></a>
 
- <!-- Preloader -->
- <div id="preloader"></div>
+     <!-- Preloader -->
+     <div id="preloader"></div>
 
- <!-- Vendor JS Files -->
- <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
- <script src="assets/vendor/php-email-form/validate.js"></script>
- <script src="assets/vendor/aos/aos.js"></script>
- <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
- <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
- <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
- <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+     <!-- Vendor JS Files -->
+     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+     <script src="assets/vendor/php-email-form/validate.js"></script>
+     <script src="assets/vendor/aos/aos.js"></script>
+     <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+     <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+     <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
- <!-- Main JS File -->
- <script src="assets/js/main.js"></script>
+     <!-- Main JS File -->
+     <script src="assets/js/main.js"></script>
 
- </body>
+     </body>
 
- </html>
+     </html>

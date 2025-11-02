@@ -55,7 +55,16 @@ $data = json_decode($jsonData, true);
                     <li class="dropdown"><a href="#"><span>Services</span> <i
                                 class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
-                            <li><a href="/swing-pro">Swing Pro</a></li>
+                            <li class="dropdown">
+                                <a href="#">Swing <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                                <ul>
+                                    <li><a
+                                            href="https://finartsresearch.com/value-investing?name=Swing Insights Portfolio">Swing
+                                            Insights Portfolio </a></li>
+                                    <li><a href="/swing-pro"> Swing Pro</a></li>
+                                </ul>
+                            </li>
+
                             <li><a href="/equity-umbrella">Equity Umbrella</a></li>
                             <li class="dropdown">
                                 <a href="#"><span>Value Investing</span> <i

@@ -180,6 +180,30 @@
                         <td colspan="2">0</td>
                         <td>0</td>
                     </tr>
+                      <tr>
+                        <td>12</td>
+                        <td>September 2025</td>
+                        <td>0</td>
+                        <td colspan="2">0</td>
+                        <td colspan="2">0</td>
+                        <td>0</td>
+                    </tr>
+                      <tr>
+                        <td>12</td>
+                        <td>October 2025</td>
+                        <td>0</td>
+                        <td colspan="2">0</td>
+                        <td colspan="2">0</td>
+                        <td>0</td>
+                    </tr>
+                      <tr>
+                        <td>12</td>
+                        <td>November 2025</td>
+                        <td>0</td>
+                        <td colspan="2">0</td>
+                        <td colspan="2">0</td>
+                        <td>0</td>
+                    </tr>
 
                     <!-- Annual Trend Heading -->
                     <tr class="table-secondary text-center">

@@ -97,7 +97,7 @@
                     <p>
                         FinArts Research is led by <strong>Taha Rahi</strong>, a <strong>SEBI Registered Research
                             Analyst (INH000018780)</strong> and a postgraduate from <strong>NISM Mumbai
-                            (2021–23)</strong>. With expertise in equities and derivatives, he brings structured and
+                            (2021–23)</strong>. With in equities and derivatives, he brings structured and
                         insightful research to help investors build confident, well-informed portfolios.
 
                     </p>
@@ -296,7 +296,7 @@
                 <div class="col-xl-9 text-center text-xl-start">
                     <h3>Ready to Make Informed Investment Decisions?</h3>
                     <p>Partner with a SEBI-registered research firm and gain access to data-driven insights, timely
-                        market analysis, and expert guidance you can trust. Empower your trading and investment strategy
+                        market analysis, and you can trust. Empower your trading and investment strategy
                         today.</p>
                 </div>
                 <div class="col-xl-3 cta-btn-container text-center">

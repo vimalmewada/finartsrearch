@@ -35,6 +35,8 @@ function route($page) {
             return $viewPath . 'gallery.php';
         case 'disclosure':
             return $viewPath . 'disclosure.php';
+        case 'disclaimer':
+            return $viewPath . 'disclaimer.php';
         case 'value-investing':
             return $viewPath . 'services/ppt-show.php';
             
